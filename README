@@ -1,7 +1,7 @@
 Term Project for my Operating Systems Course - Josh Ydenberg
 
-Me and my partner's work can be found in the c and h files, the rest are given infrastructure to simulate a basic X86 infrastructure intel chip system.
+Me and my partner's work can be found in the c and h files, the rest are given infrastructure to simulate a basic Y86 intel chip system.
 
 The scope included creating a memory manager, dealing with signals and device input/outputs, dealing with hardware signals like keyboard handling, and creation of a shell.
 
-The majority of the rest of the work was given as an assignment, and used under the MIT license.
+The majority of the rest of the work was given in the assignment, and used under the MIT license.
